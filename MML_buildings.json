@@ -1,0 +1,1 @@
+{"format":"pbf","maxzoom":19,"minzoom":15,"vector_layers":[{"description":"","id":"buildings"}],"name":"buildings","center":[24.98219,60.186086,16],"bounds":[-180,-85.0511,180,85.0511],"tiles":["https://beta-karttakuva.maanmittauslaitos.fi/vectortiles/wmts/1.0.0/buildings/default/WGS84_Pseudo-Mercator/{z}/{y}/{x}.pbf"],"tilejson":"2.0.0"}
